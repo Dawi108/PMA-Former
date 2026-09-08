@@ -1,0 +1,37 @@
+=================================================================
+ CAMVID CROSS-DATASET BENCHMARK REPORT (RGB FIXED) 
+=================================================================
+Evaluation Source Location:  /home/ubuntu/miniconda3/envs/foggy/Dataset/CamVid
+Architecture Blueprint:      PMA-Mask2Former (CS-Pretrained)
+Frames Evaluated Matrix:     232
+Hardware Architecture:       NVIDIA RTX 4000 Ada Generation
+-----------------------------------------------------------------
+Overall Cross-mIoU:          55.42%
+Global Pixel Accuracy:       91.73%
+Mean Class Accuracy:         61.35%
+-----------------------------------------------------------------
+Execution Performance Speed: 12.29 FPS
+Average Latency Per Frame:   81.36 ms
+-----------------------------------------------------------------
+CITYSCAPES CLASS REFERENCE   | IoU (%)   
+-----------------------------------------------------------------
+Road                         | 96.64     
+Sidewalk                     | 87.23     
+Building                     | 89.14     
+Wall                         | 59.61     
+Fence                        | 57.73     
+Pole                         | 42.99     
+Traffic Light                | 63.89     
+Traffic Sign                 | 35.82     
+Vegetation                   | 73.88     
+Terrain                      | 0.00      
+Sky                          | 84.80     
+Person                       | 71.75     
+Rider                        | 56.36     
+Car                          | 90.60     
+Truck                        | [N/A Unmapped in CamVid]
+Bus                          | 69.76     
+Train                        | 0.00      
+Motorcycle                   | 72.80     
+Bicycle                      | [N/A Unmapped in CamVid]
+=================================================================

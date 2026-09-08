@@ -1,0 +1,36 @@
+=================================================================
+ KITTI EVALUATION BENCHMARK 
+=================================================================
+Architecture:        PMA-Mask2Former
+Frames Evaluated:    200
+Hardware:            NVIDIA RTX 4000 Ada Generation
+-----------------------------------------------------------------
+Overall mIoU:        62.35%
+Global Pixel Acc:    89.85%
+Mean Class Acc:      76.52%
+-----------------------------------------------------------------
+Inference Speed:     15.06 FPS
+Avg Time Per Frame:  66.40 ms
+-----------------------------------------------------------------
+CLASS NAME           | IoU (%)   
+-----------------------------------------------------------------
+Road                 | 89.25     
+Sidewalk             | 42.59     
+Building             | 82.50     
+Wall                 | 39.74     
+Fence                | 45.00     
+Pole                 | 39.45     
+Traffic Light        | 66.55     
+Traffic Sign         | 67.88     
+Vegetation           | 88.81     
+Terrain              | 62.76     
+Sky                  | 93.54     
+Person               | 60.73     
+Rider                | 47.07     
+Car                  | 88.40     
+Truck                | 39.62     
+Bus                  | 62.77     
+Train                | 62.00     
+Motorcycle           | 58.53     
+Bicycle              | 47.52     
+=================================================================

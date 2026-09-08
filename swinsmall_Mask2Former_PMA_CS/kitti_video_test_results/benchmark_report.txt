@@ -1,0 +1,36 @@
+=================================================================
+ COMPREHENSIVE EVALUATION BENCHMARK 
+=================================================================
+Architecture:        PMA-Mask2Former
+Frames Evaluated:    500
+Hardware:            NVIDIA RTX 4000 Ada Generation
+-----------------------------------------------------------------
+Overall mIoU:        81.68%
+Global Pixel Acc:    96.71%
+Mean Class Acc:      89.20%
+-----------------------------------------------------------------
+Inference Speed:     3.67 FPS
+Avg Time Per Frame:  272.83 ms
+-----------------------------------------------------------------
+CLASS NAME           | IoU (%)   
+-----------------------------------------------------------------
+Road                 | 98.54     
+Sidewalk             | 87.99     
+Building             | 93.62     
+Wall                 | 64.76     
+Fence                | 67.68     
+Pole                 | 70.24     
+Traffic Light        | 75.73     
+Traffic Sign         | 83.59     
+Vegetation           | 92.98     
+Terrain              | 68.01     
+Sky                  | 95.36     
+Person               | 85.00     
+Rider                | 67.95     
+Car                  | 95.95     
+Truck                | 76.28     
+Bus                  | 91.50     
+Train                | 84.70     
+Motorcycle           | 71.30     
+Bicycle              | 80.76     
+=================================================================
