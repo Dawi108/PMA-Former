@@ -1,0 +1,14 @@
+Metric,Value
+Best Validation mIoU,71.98%
+Best Validation mAcc,80.56%
+Best Validation aAcc,93.46%
+Best Validation Macro Precision,84.01%
+Best Validation Macro Recall,80.56%
+Best Validation Macro F1,82.04%
+Best Validation Loss,0.195726
+Best Epoch,445
+Total Training Time,02:19:42
+AMP Overflow Skips,8
+ImageNet Initialization,Yes
+Cityscapes Semantic Initialization,No
+Test Split Used During Training,No

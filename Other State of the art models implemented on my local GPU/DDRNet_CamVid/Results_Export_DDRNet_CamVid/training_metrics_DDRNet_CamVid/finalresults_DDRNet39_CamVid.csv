@@ -1,0 +1,23 @@
+Metric,Value
+Best Validation mIoU (Macro),71.97%
+Best Validation mAcc (Macro Recall),80.55%
+Best Validation aAcc,93.46%
+Best Validation Precision (Macro),84.02%
+Best Validation Recall (Macro),80.55%
+Best Validation F1 (Macro),82.04%
+Best Validation Precision (Micro),93.46%
+Best Validation Recall (Micro),93.46%
+Best Validation F1 (Micro),93.46%
+Best Validation IoU (Micro),87.73%
+Reconstructed Validation Loss,0.195726
+Historical Validation Loss at Best Epoch,0.195726
+Best Epoch,445
+Training Epoch Target,484
+Validation Images,100
+Valid Validation Pixels,"67,439,645"
+Ignored Validation Pixels,"1,680,355"
+Total Training Time,2:08:26
+Pretraining,ImageNet
+Cityscapes Semantic Pretraining,No
+Validation Protocol,Native 720x960 / single-scale / no flip
+CamVid Test Split Evaluated,No

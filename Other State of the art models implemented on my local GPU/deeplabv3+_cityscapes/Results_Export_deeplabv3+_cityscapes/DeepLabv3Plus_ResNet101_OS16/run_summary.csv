@@ -1,0 +1,2 @@
+Architecture,Backbone,Best Epoch,Best Val mIoU (%),Final aAcc (%),Final mAcc (%),Total Params (M),Train Time
+DeepLabv3+,ResNet-101,120,65.3,93.28,75.31,45.69,5:08:12

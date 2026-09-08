@@ -1,0 +1,9 @@
+Metric,Value
+Best Validation mIoU (Macro),49.75%
+Best Validation Mean Class Acc (mAcc),56.06%
+Best Validation Pixel Acc (aAcc),85.07%
+Best Validation F1 Score (Macro),59.33%
+Final Epoch Pixel Acc (aAcc),85.01%
+Final Epoch Mean Class Acc (mAcc),55.20%
+Final Epoch Mean F1 Score (Macro),58.58%
+Total Training Time,01:23:45

@@ -1,0 +1,2 @@
+Experiment Name,Architecture,Backbone,Best Epoch,Best Val mIoU (%),Final aAcc (%),Final mAcc (%),Total Params (M),Train Time
+STDC_Seg_Cityscapes,STDC-Seg,STDC1,906,69.47,94.2,76.46,8.12,"1 day, 8:00:44"

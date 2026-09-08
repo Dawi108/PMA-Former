@@ -1,0 +1,2 @@
+Experiment Name,Architecture,Backbone,Best Epoch,Best Val mIoU (%),Final aAcc (%),Final mAcc (%),Total Params (M),Train Time
+STDC_Seg_KITTI,STDC-Seg,STDC1,260,53.07,89.97,57.94,8.12,0:27:14

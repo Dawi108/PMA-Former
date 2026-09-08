@@ -1,0 +1,2 @@
+Experiment,AMP_Enabled,Final_AMP_Scale,AMP_Overflow_Skipped_Updates,Successful_Optimizer_Updates
+DDRNet39_CamVid_ImageNetOnly,True,16384.0,8,14996

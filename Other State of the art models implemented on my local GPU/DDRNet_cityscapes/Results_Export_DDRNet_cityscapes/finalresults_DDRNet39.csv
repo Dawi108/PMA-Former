@@ -1,0 +1,9 @@
+Metric,Value
+Best Validation mIoU (Macro),79.53%
+Best Validation Mean Class Accuracy (mAcc),86.04%
+Best Validation Global Pixel Accuracy (aAcc),96.38%
+Best Validation F1 Score (Macro),88.05%
+Best Validation Precision (Macro),90.52%
+Best Validation Recall (Macro),86.04%
+Best Epoch,438
+Total Training Time,"1 day, 12:18:04"

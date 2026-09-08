@@ -1,0 +1,7 @@
+Metric,Value
+Best Validation mIoU (Macro),38.43%
+Global Pixel Accuracy (aAcc),74.50%
+Final Epoch Mean Class Acc (mAcc),46.09%
+Final Epoch Mean Recall (Macro),46.09%
+Final Epoch Mean F1 Score (Macro),48.66%
+Total Training Time,00:57:14

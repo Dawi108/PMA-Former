@@ -1,0 +1,21 @@
+Metric,Value
+Best Validation mIoU (Macro),53.61%
+Best Validation mAcc (Macro Recall),59.67%
+Best Validation aAcc (Global Pixel Accuracy),93.65%
+Best Validation F1 (Macro),74.52%
+Best Validation Precision (Macro),68.35%
+Best Validation Recall (Macro),59.67%
+Best Epoch,865
+Training Samples,160
+Validation Samples,40
+Physical Batch Size,4
+Gradient Accumulation,3
+Effective Batch Size,12
+Initial Learning Rate,0.001
+Training Epochs,968
+Successful Optimizer Updates,13547
+AMP Skipped Updates,5
+Training Sampling,Class-balanced WeightedRandomSampler
+Validation Protocol,"Single-scale, no flip"
+Validation Loss,Valid-pixel-weighted Cross-Entropy
+Total Training Time,02:07:14

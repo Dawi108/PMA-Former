@@ -1,0 +1,2 @@
+Experiment Name,Architecture,Backbone,Dataset,Best Epoch,Best Val mIoU (%),Final aAcc (%),Final mAcc (%),Total Params (M),Train Time
+DeepLabv3Plus_ResNet101_CamVid,DeepLabv3+,ResNet-101,CamVid,118,64.19,94.69,71.95,45.69,00:40:03

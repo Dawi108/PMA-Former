@@ -1,0 +1,2 @@
+Experiment Name,Architecture,Backbone,Best Epoch,Best Val mIoU (%),Final aAcc (%),Final mAcc (%),Total Params (M),Train Time
+DeepLabv3Plus_ResNet101_OS16_KITTI,DeepLabv3+,ResNet-101,677,54.49,92.63,63.12,45.69,2:16:37
