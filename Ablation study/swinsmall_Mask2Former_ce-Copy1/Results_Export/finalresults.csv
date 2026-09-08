@@ -1,0 +1,4 @@
+Metric,Value
+Global Pixel Accuracy (aAcc),96.49%
+Mean IoU (mIoU),80.38%
+Mean Class Accuracy (mAcc),85.42%

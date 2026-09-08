@@ -1,0 +1,2 @@
+Best Epoch,Best Val mIoU (%),Final aAcc (%),Final mAcc (%),Total Params (M),Train Time
+1,81.9,96.55,86.33,68.73,"1 day, 10:52:57"

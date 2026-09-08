@@ -1,0 +1,24 @@
+Metric,Value
+Best Epoch,1
+Best Validation mIoU (%),81.7655941778044
+Best Validation mAcc (%),88.29041449784609
+Best Validation aAcc (%),96.6573620523806
+Average Validation mIoU over Training (%),79.35494908663496
+Average Validation mAcc over Training (%),83.9163792272443
+Average Validation aAcc over Training (%),96.37955911268436
+Final Epoch,25
+Final Train Total Loss,13.62465322742943
+Final Train Native Loss,13.11549486689207
+Final Train CE Loss,0.2461120767165132
+Final Train Lovasz Loss,0.524488025482337
+Final Validation CE Loss,0.24144804403185843
+Final Validation mIoU (%),79.34669146934515
+Final Validation mAcc (%),84.27299592369816
+Final Validation aAcc (%),96.4500773549834
+Total Training Time (sec),25183.063269138336
+Total Training Time,6:59:43
+Total Parameters,68723870
+Trainable Parameters,67236380
+Non-Trainable Parameters,1487490
+Total Parameters (M),68.72387
+Trainable Parameters (M),67.23638

@@ -1,0 +1,9 @@
+Metric,Value
+Average Mean IoU over Complete Training,79.35%
+Average Mean Class Accuracy over Complete Training,83.92%
+Average Pixel Accuracy over Complete Training,96.38%
+Final Global Pixel Accuracy (aAcc),96.45%
+Final Mean IoU (mIoU),79.35%
+Final Mean Class Accuracy (mAcc),84.27%
+Best Validation mIoU,81.77%
+Best Epoch,1

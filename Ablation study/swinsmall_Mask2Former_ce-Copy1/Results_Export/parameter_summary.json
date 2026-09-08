@@ -1,0 +1,9 @@
+{
+  "Model_Name": "Mask2Former + Swin-Small",
+  "Total_Parameters": 68723870,
+  "Trainable_Parameters": 67236380,
+  "Non_Trainable_Parameters": 1487490,
+  "Total_Parameters_M": 68.72387,
+  "Trainable_Parameters_M": 67.23638,
+  "Non_Trainable_Parameters_M": 1.48749
+}
